@@ -53,7 +53,6 @@ header{
 .img-logo{
   height: 100%;
   vertical-align: middle;
-  
 }
 
 .principal-title{
@@ -71,7 +70,7 @@ header{
 main{
   width: 70%;
   border-radius: 0.5rem;
-  margin: auto;
+  margin: 40px auto;
   background-color: var(--bg-white);
 }
 
@@ -79,7 +78,7 @@ main{
   padding: 15px 0 10px 50px;
 }
 
- /* #region button */
+/* #region button */
  
 .container-btn{
   border-bottom: 1px solid var(--border-buttons);
